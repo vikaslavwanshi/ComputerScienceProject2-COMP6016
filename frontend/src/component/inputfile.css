@@ -1,0 +1,7 @@
+/* fileinput.css */
+.file-input-group {
+    display: flex;
+    align-items: center;
+    margin-left: 100px; /* Add margin-left to shift 100px to the right */
+  }
+  

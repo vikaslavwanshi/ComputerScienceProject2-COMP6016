@@ -1,0 +1,10 @@
+/* navbar.css */
+.navbar-nav {
+  margin-right: auto;
+}
+
+.navbar-form {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
